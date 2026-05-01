@@ -1,1 +1,1 @@
-TurboTypeLab V1 static site. Deploy on Vercel with Framework Preset: Other; leave build and install commands blank; Output Directory: ./
+TurboTypeLab V2 static site. Deploy on Vercel with Framework Preset: Other, Build Command: echo "no build" if needed, Install Command: echo "no install" if needed, Output Directory: ./
